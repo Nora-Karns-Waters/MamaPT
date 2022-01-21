@@ -265,3 +265,7 @@ Received Import Request.
   path: Assets/Sprites/Enemies/Mole/Mole_idle.png
   artifactKey: Guid(aa6bef96bae8c884eb228e3fea362ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Sprites/Enemies/Mole/Mole_idle.png using Guid(aa6bef96bae8c884eb228e3fea362ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '686e89a27ca82267122be11033f018d4') in 0.011618 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
